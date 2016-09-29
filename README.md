@@ -1,2 +1,6 @@
-# pretested-integration
-Script-based implementation of pretested integration for reuse in Travis CI and not only jobs
+# Re-usable scripts for implementing Pretested Integration concept
+
+Script-based implementation of pretested integration concept for reuse in Travis CI and other CI engines
+
+* [Travis CI](travis/README.md)
+* more to come
