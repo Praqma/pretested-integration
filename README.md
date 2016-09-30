@@ -1,6 +1,6 @@
-# Re-usable scripts for implementing Pretested Integration concept
+# Re-usable scripts, plugins and tools for implementing Pretested Integration concept
 
-Script-based implementation of pretested integration concept for reuse in Travis CI and other CI engines
+Collection of ways to implementat [pretested integration concept](http://www.josra.org/blog/An-automated-git-branching-strategy.html) in different CI engines
 
 * [Travis CI](travis/README.md)
 * [Jenkins CI](jenkins/README.md)
